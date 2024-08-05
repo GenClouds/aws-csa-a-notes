@@ -192,7 +192,7 @@ With IAM we can add other trusted identity into our account.
 A root user account is non-restricted to any services. If we want other identity to fully or limited access to our aws resources we use IAM.  
 In IAM we follow a principle called  LEAST PRIVILEGES PRINCIPLE that means “Don’t give more permission than user’s need.
 
-We have different type of identiies : 
+We have different type of identiies >>
 
 ## IAM USER : 
  human’s or application need access to our account .people within organization  
