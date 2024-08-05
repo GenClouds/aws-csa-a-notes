@@ -1,55 +1,52 @@
-# AWS SOLUTION ARCHITECT ASSOCIATE -NOTES 
-# By                           
-# FAISAL ISRAR QAZI 
-  CERTIFICATIONS ROUTE : understanding the AWS certification path 
+ <h1>AWS SOLUTION ARCHITECT ASSOCIATE -NOTES</h1>
+  <p>CERTIFICATIONS ROUTE : understanding the AWS certification path 
 Cloud computing has become essential for modern businesses. Amazon Web Services (AWS) is a leading cloud platform offering many tools & services. To validate our cloud expertise, AWS Certifications provide a clear path.
 
  They  offer two certification tracks.The first progresses from Cloud Practitioner to Associate, then Professional, and finally Specialty certifications. The second path moves from Practitioner to Associate, then Operation, Developer, and finally Specialty. Based on research and tutorials, starting with the Cloud Practitioner, followed by Solutions Architect Associate and Professional, and then DevOps Professional seems to be the most effective approach. This combination covers both development and operations aspects.
-Remember, two key factors for certification success , knowledge and practical experience. While knowledge is crucial, hands-on experience with AWS is equally important for problem-solving, troubleshooting, and solution design. Considering this, starting with the Solutions Architect Associate certification might be beneficial as it encompasses a broader understanding of AWS services and also covering the practitioner area as well. Additionally, the market demands individuals with practical AWS experience, making the Solutions Architect Associate a solid foundation for  AWS career.
-................................................................................................................................................................................................................. 
+Remember, two key factors for certification success , knowledge and practical experience. While knowledge is crucial, hands-on experience with AWS is equally important for problem-solving, troubleshooting, and solution design. Considering this, starting with the Solutions Architect Associate certification might be beneficial as it encompasses a broader understanding of AWS services and also covering the practitioner area as well. Additionally, the market demands individuals with practical AWS experience, making the Solutions Architect Associate a solid foundation for  AWS career.</p> 
 
-# 1.Aws cloud Practitioner 
-This entry-level certification is designed for individuals who are new to AWS and cloud computing in general, providing a broad overview of AWS services, concepts, and architectural best practices. 
+<h3>1.Aws cloud Practitioner</h3>
+<p>This entry-level certification is designed for individuals who are new to AWS and cloud computing in general, providing a broad overview of AWS services, concepts, and architectural best practices. 
 
 Requirement : 6 month of fundamental aws Cloud & industruial knowledge
+</p>
 
+<h3>2.Aws Solution Architect Associate :</h3> 
+<p>The Solutions Architect- Associate certification focuses on designing distributed systems, selecting appropriate AWS services for different scenarios, and understanding architectural best practices. This certification is suitable for individuals involved in designing and deploying scalable, cost-effective solutions on AWS. 
 
-# 2.Aws Solution Architect Associate : 
-The Solutions Architect- Associate certification focuses on designing distributed systems, selecting appropriate AWS services for different scenarios, and understanding architectural best practices. This certification is suitable for individuals involved in designing and deploying scalable, cost-effective solutions on AWS. 
+Requirement: one year of experience solving problem, design solution , implementinng on aws .</p>
 
-Requirement: one year of experience solving problem, design solution , implementinng on aws .
-
-# 3. AWS Certified Solutions Architect – Professional 
+<h3>3. AWS Certified Solutions Architect – Professional</h3> 
 The Solutions Architect - Professional certification dives deeper into complex architectural concepts, hybrid architecture, and doing  advanced deployment scenarios.  
 Requirment : 
 2 years of comprehensive experience designing ,operating and troubleshooting using  Aws cloud.
 
 
 
-# ANIMAL4LIFE  
-<h>TO UNDERSTAND THE REAL WORD SCENARIO , REQUIRMENT ,GLOBAL INFRASTRUCTURE , PROBELMS THE FACING AND THEIR IDEAL OUTCOMES.  
-# ANIMAL4LIFE –An animal rescue and awarness organization  
+<h2> ANIMAL4LIFE  </h2>
+<p>TO UNDERSTAND THE REAL WORD SCENARIO , REQUIRMENT ,GLOBAL INFRASTRUCTURE , PROBELMS THE FACING AND THEIR IDEAL OUTCOMES.  
+ANIMAL4LIFE –An animal rescue and awarness organization  
 They are Working for the regional animal care provider & involve in monitering and habitat destructions . 
 Globall headquarter in brisbane australia including 100 of staffs with shared opeartions callcentre,admin ,it ,sales and marketing etc. 
-And 100s of remote worker globally doing planning, research, collecting data ,scientist and technical activist and lobbiysts as well. 
-Their works involve with IOT and large dataset means big data . 
-They have small datacentre in brisbone that take five rack spaces  
-Datacentre was old the always encourge thier customer to migrate asap. 
-The have a vendor in sydney that badly implemented on aws pilot/GCP pilot and azure pilot . 
-ALL global offices and mobile worker conusme their services from their om-premises datacentre . 
+And 100s of remote worker globally doing planning, research, collecting data ,scientist and technical activist and lobbiysts as well. <p>
+<ul>
+<li>Their works involve with IOT and large dataset means big data .</li>
+<li>They have small datacentre in brisbone that take five rack spaces</li>  
+<li>Datacentre was old the always encourge thier customer to migrate asap.</li> 
+<li>The have a vendor in sydney that badly implemented on aws pilot/GCP pilot and azure pilot .</li> 
+<li>ALL global offices and mobile worker conusme their services from their om-premises datacentre .</li> </ul>
+
+<br>
+<br>
+<strong>GLOBAL INFRASTRUCTURE</strong>
+<strong>HEAD OFFICES:</strong> on-premises ,aws pilot and azure pilot 
+
+<strong>MAJOR OFFICES :</strong>london , newyork ,sedney ,australia 
+
+<strong>workers :</strong> 5G and satelite ,research,data collection and 
 
 
-# GLOBAL INFRASTRUCTURE
-HEAD OFFICES: 
-
-on-premises ,aws pilot and azure pilot 
-
-MAJOR OFFICES :london , newyork ,sedney ,australia 
-
-workers : 5G and satelite ,research,data collection and 
-
-
-# THEIR REQUIRNMENT :  
+<h2> THEIR REQUIRNMENT :</h2>  
 1.the need to upload and downlaod the data globally . 
 2. chatt and planning software  
 3. need to manage large dataset  
