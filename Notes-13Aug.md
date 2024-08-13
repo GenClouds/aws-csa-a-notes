@@ -1,6 +1,11 @@
 ## AWS Serverless Event-Driven Architecture
 
 
+## Infrastructure :
+<img width="420" alt="image" src="https://github.com/user-attachments/assets/75f337b7-4a21-4cda-bf7c-c7a52e1e1692">
+
+
+
 
 
 # 🎯OBJECTIVE 
