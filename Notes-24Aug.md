@@ -20,3 +20,45 @@
 ### Important Considerations
 
 - **Effective Permissions**: The effective permissions for identities within an account are determined by the overlap between identity policies and SCPs.
+
+
+
+
+# CloudWatch Logs
+
+**CloudWatch Logs** is a public, regional service provided by AWS. It can be used from various environments including:
+
+- AWS (from within a VPC)
+- On-premises systems
+- Other cloud platforms (assuming appropriate AWS permissions and network connectivity)
+
+## Purpose
+
+CloudWatch Logs is primarily used to:
+
+- **Store** logging data
+- **Monitor** logs
+- **Access** logging data
+
+## Logging Data
+
+At a basic level, logging data consists of:
+
+- Information
+- Timestamps (e.g., year, month, day, hours, minutes, seconds, time zones)
+
+## Built-in Integrations
+
+CloudWatch Logs has built-in integrations with several AWS services, including:
+
+- EC2
+- VPC Flow Logs
+- Lambda
+- CloudTrail
+- Route 53
+- And many more...
+
+## Metric Filters
+
+CloudWatch Logs also has the capability to take logging data and generate metrics through **Metric Filters**.
+
