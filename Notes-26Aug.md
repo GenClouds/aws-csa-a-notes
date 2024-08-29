@@ -26,7 +26,10 @@ CloudTrail events can be categorized into three types:
    - Examples: Uploading objects to S3, accessing objects from S3, invoking a Lambda function.
 
 3. **Insight Events**
-   - [Add description based on further details if needed.]
+   - ### Insight Events
+
+**Insight Events** provide information about unusual activity in your AWS environment. These events help in identifying anomalous behaviors, such as spikes in resource usage or unexpected changes in API activity. By detecting these anomalies, Insight Events enable quicker investigation and remediation of potential security or operational issues.
+
 
 ## Trails
 
