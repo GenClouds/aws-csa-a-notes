@@ -28,3 +28,5 @@ KMS provides granular permissions, requiring specific permissions for each indiv
   - **Customer Managed Keys**: Fully managed and controlled by the customer.
   - **AWS Managed Keys**: Managed by AWS, with less control by the customer.
 - **AWS-Owned Keys**: Managed entirely by AWS, with no direct customer access.
+
+![Screenshot 2024-09-03 154617](https://github.com/user-attachments/assets/91ddb8a2-6afd-49e8-8625-7ba61c6ff43f)
