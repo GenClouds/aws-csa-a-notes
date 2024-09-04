@@ -22,6 +22,9 @@ Typically, accessing an object inside a bucket requires identity or authenticati
 - You can create a URL for an object even if you don't have direct access to it, as long as the permissions match the identity used to generate the URL.
 - Do not generate presigned URLs with roles.
 
+  ## S3 NOTIFICATION SERVICE :
+
+The Amazon S3 notification feature enables you to receive notifications when certain events happen in your bucket. To enable notifications, you must first add a notification configuration that identifies the events you want Amazon S3 to publish and the destinations where you want Amazon S3 to send the notifications. You store this configuration in the notification subresource that is associated with a bucket
 
 - **Exams Hand-Up**: Share URLs for objects that users don't have direct access to, ensuring permissions are correctly matched.
 - **Temporary Access**: Provide temporary access to private objects without exposing your credentials.
