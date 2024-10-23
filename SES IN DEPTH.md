@@ -55,4 +55,8 @@ When deciding between shared IP addresses or the two types of dedicated IP addre
 
 ![Screenshot 2024-10-24 022742](https://github.com/user-attachments/assets/34a57513-4670-441e-9af4-0aea82e70c99)
 
+##### pricing 
+![Screenshot 2024-10-24 023622](https://github.com/user-attachments/assets/6d396623-ea57-47b7-b15c-f228b57e1476)
+
+
 
