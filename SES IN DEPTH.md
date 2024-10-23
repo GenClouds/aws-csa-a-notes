@@ -44,3 +44,15 @@ When choosing IP addresses for sending emails in SES, there are two main options
 - More control over IP usage, allowing decisions on how and when to send emails.
 - IP warmup required manually: start with a low volume of emails and gradually increase the volume.
 
+When deciding between shared IP addresses or the two types of dedicated IP addresses defined above, choose the one that provides the most benefits for the type, volume, and patterns of email that you send. To help you make your decision, these benefits are summarized in the following table. Choose an item in the Benefit column for additional information.
+
+![Screenshot 2024-10-24 022133](https://github.com/user-attachments/assets/dfa77cc7-c2f7-4251-adb1-39db2565fe7a)
+
+![Screenshot 2024-10-24 022439](https://github.com/user-attachments/assets/2cf1c768-91ac-4f99-b206-3062e9125648)
+![Screenshot 2024-10-24 022623](https://github.com/user-attachments/assets/85f88f44-3e57-4dca-8bbf-6c8c23ede847)
+
+![Screenshot 2024-10-24 022712](https://github.com/user-attachments/assets/09f541da-33ac-4356-b179-780dbc1df58c)
+
+![Screenshot 2024-10-24 022742](https://github.com/user-attachments/assets/34a57513-4670-441e-9af4-0aea82e70c99)
+
+
