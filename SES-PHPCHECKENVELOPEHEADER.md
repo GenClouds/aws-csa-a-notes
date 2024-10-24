@@ -1,7 +1,7 @@
 ### Step 1: Create an Amazon SES Account
 
-1. **Sign up for AWS**: If you don't already have an AWS account, sign up at [AWS](https://aws.amazon.com/).
-2. **Verify Your Domain or Email**: In the SES console, verify the domain or email addresses you'll be using to send emails. This is necessary for SES to allow you to send emails.
+1. **Sign up for AWS**:  sign up at [AWS](https://aws.amazon.com/).
+2. **Verify Your Domain or Email**: In the SES console, verify the domain or email addresses you'll be using to send emails. This is necessary for SES to allow you to send emails.after verifying go  for any application/host to which we need to configure SMTP . provided the verified details username ,password, SMTP host and alll required and saved
 
 ### Step 2: Choose Between IP Options
 
